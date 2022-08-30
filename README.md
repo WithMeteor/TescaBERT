@@ -21,7 +21,7 @@ The code and dataset for the paper _Topic Enhanced Sentiment Co-Attention BERT_,
 Provided datasets include `bank` and `asap`/`restaurant`. Both of them are **Chinese** review data.
 `bank` is bank forum data of financial product, which is provided by [CCF BDCI](https://www.datafountain.cn/competitions/529/datasets).
 `asap`/`restaurant` is restaurant review data from online platform, which is constructed by [Bu et al](https://arxiv.org/pdf/2103.06605v2.pdf), you can download it from [Github](https://github.com/Meituan-Dianping/asap).
-The data used in this paper has been preprocessed and saved in `data`, which is **different** from the original data. Please refer to the appendix of paper for preprocessing details.
+The data used in this paper has been preprocessed and saved in `data`, which is **different** from the original data. Please refer to the paper for preprocessing details.
 
 Other two English datasets are `sst-5` and `amazon-food`/`food`. 
 The former is film review data, which is provided by [Stanford](https://nlp.stanford.edu/sentiment/). 
