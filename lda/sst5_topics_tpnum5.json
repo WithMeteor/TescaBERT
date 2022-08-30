@@ -1,0 +1,37 @@
+[
+    {
+        "life": 0.2174,
+        "fun": 0.2174,
+        "time": 0.2174,
+        "lot": 0.1739,
+        "minutes": 0.1739
+    },
+    {
+        "comedy": 0.25,
+        "drama": 0.2,
+        "performances": 0.2,
+        "humor": 0.2,
+        "compelling": 0.15
+    },
+    {
+        "script": 0.24,
+        "funny": 0.2,
+        "comedy": 0.2,
+        "plot": 0.2,
+        "time": 0.16
+    },
+    {
+        "bad": 0.2692,
+        "time": 0.2308,
+        "director": 0.1923,
+        "idea": 0.1538,
+        "drama": 0.1538
+    },
+    {
+        "comedy": 0.2353,
+        "audience": 0.2353,
+        "scenes": 0.1765,
+        "series": 0.1765,
+        "watch": 0.1765
+    }
+]

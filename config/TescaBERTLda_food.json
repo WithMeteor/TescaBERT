@@ -1,0 +1,23 @@
+{
+	"load": 0,
+	"type": "TescaBERTLda",
+	"output_path": "../model/model_food/TescaBERTLda",
+	"use_gpu": true,
+	"gpu_id": 1,
+	"data_set": "food",
+	"padding_len": 192,
+	"batch_size" : 8,
+	"num_epochs": 10,
+	"lr": 5e-6,
+	"weight_decay": 0.1,
+	"display_per_batch": 1221,
+	"model": {
+		"topic_num": 4,
+		"topic_word_num": 5,
+		"hidden_size": 768,
+		"coattention_inner_size": 768,
+		"dropout": 0.1,
+		"bert_dir": "../data/bert_model/roberta_en",
+		"output_attention": true
+	}
+}
