@@ -66,5 +66,18 @@ More details
 If you make advantage of the TescaBERT model in your research, please cite the following in your manuscript:
 
 ```
-To be published
+@article{Wang2023Topic,
+author={Wang, Shiyu and Zhou, Gang and Lu, Jicang and Chen, Jing and Xia, Yi},
+title={Topic enhanced sentiment co-attention BERT},
+journal={Journal of Intelligent Information Systems},
+year={2023},
+month={Feb},
+day={01},
+volume={60},
+number={1},
+pages={175-197},
+issn={1573-7675},
+doi={10.1007/s10844-022-00749-x},
+url={https://doi.org/10.1007/s10844-022-00749-x}
+}
 ```
